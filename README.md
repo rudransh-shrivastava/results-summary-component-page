@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution](https://github.com/rudransh-shrivastava/results-summary-component-page)
-- Live Site URL: [Live Site](http://rudransh.uk.to/results-summary-component-page)
+- Live Site URL: [Live Site](http://rudransh.uk.to/ResultsSummary/index.html)
 
 ## My process
 
