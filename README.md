@@ -22,8 +22,8 @@ Users should be able to:
 - See hover and focus states for all interactive elements on the page
 
 ### Screenshot
+![screenshot](https://github.com/rudransh-shrivastava/results-summay-component-page/assets/125893371/8acb5b89-a192-477e-a164-0db0d991a724)
 
-![](./screenshot.jpg)
 
 ### Links
 
