@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution](https://github.com/rudransh-shrivastava/results-summary-component-page)
-- Live Site URL: [Live Site](http://rudransh.uk.to/ResultsSummary/index.html)
+- Live Site URL: [Live Site](https://results-summary-component-page.netlify.app/)
 
 ## My process
 
@@ -38,7 +38,6 @@ Learnt a lot about grid and flexbox, application of gradients be it linear or ra
 
 ## Author
 
-- Website - [rudransh.uk.to](http://rudransh.uk.to)
 - Frontend Mentor - [@rudransh-shrivastava](https://www.frontendmentor.io/profile/rudransh-shrivastava)
 - Twitter - [@rudranshstwt](https://www.twitter.com/rudranshstwt)
 
